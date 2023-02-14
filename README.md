@@ -1,6 +1,5 @@
 # Garfield2
-#Examen parcial 
- #¿Por qué me gusta ver Garfield?
+#¿Por qué me gusta ver Garfield?
 Bueno, me gusta porque es bien dramático, me hace reir y por ultimo me hace felíz. A mis hermanitas les gusta, y lo vemos juntos, porque nos hace reir, y es algo que vemos desde hace tiempos por lo que nos gusta bastante. :EMOJICODE:😁
 
 #Vinculos:
@@ -9,8 +8,12 @@ Bueno, me gusta porque es bien dramático, me hace reir y por ultimo me hace fel
 #imagenes:
 ![This is an image](https://www.hbo.com/movies/garfield-the-movie)
 
-#Listas anidadas: (ersonajes que aparecen en las peliculas de Garfield:)
-1. First list item 
-   -First nested list item (Jon Arbuckle, Orson y Pooky.)
-    -Second nested list item (Garfield y Odie.) 
+#Listas anidadas: (personajes que aparecen en las peliculas de Garfield:)
+1. First nested list item 
+- Jon Arbuckle
+  - Orson
+    - Pooky
+      - Garfield
+        - Odie 
+
 
